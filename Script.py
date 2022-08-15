@@ -32,7 +32,7 @@ Here Is The Help For My Commands."""
 <code>[Button Text](buttonurl:https://t.me/MCF_FilterX_Bot)</code>
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """Help: <b>MCF Filter Pro</b>
+    AUTOFILTER_TXT = """Help: <b>MCF Filter X</b>
 <b>NOTE:</b>
 1. Make me the admin of your channel if it's private.
 2. make sure that your channel does not contains camrips, porn and fake files.
